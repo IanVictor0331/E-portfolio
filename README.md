@@ -6,7 +6,7 @@ This repository serves as a central hub for my academic work, including projects
 ## Subjects
 
 1. **Discrete Structure**
-   - 📁 [Projects](.Discrete-Structure/Projects)
+   - 📁 [Projects]([.Discrete-Structure/Projects](https://github.com/IanVictor0331/E-portfolio/tree/3204174dc7ae8aabfe56058fa153dd71fc75c611/Discrete%20Structure))
    - 📁 [Assignments](./DiscreteStructure/Assignments)
    - 📁 [Notes](./DiscreteStructure/Notes)
 
