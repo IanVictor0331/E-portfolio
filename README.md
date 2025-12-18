@@ -7,13 +7,13 @@ This repository serves as a central hub for my academic work, including projects
 
 1. **Discrete Structure**
    - 📁 [Projects](/Discrete%20Structure/Projects)
-   - 📁 [Assignments](./DiscreteStructure/Assignments)
-   - 📁 [Notes](./DiscreteStructure/Notes)
+   - 📁 [Assignments](./Discrete%20Structure/Assignments)
+   - 📁 [Notes](./Discrete%20Structure/Notes)
 
 2. **Digital Logic**
-   - 📁 [Projects](./DigitalLogic/Projects)
-   - 📁 [Assignments](./DigitalLogic/Assignments)
-   - 📁 [Notes](./DigitalLogic/Notes)
+   - 📁 [Projects](./Digital%20Logic/Projects)
+   - 📁 [Assignments](./Digital%20Logic/Assignments)
+   - 📁 [Notes](./Digital%20Logic/Notes)
 
 3. **Technology Information System**
    - 📁 [Projects](./TechnologyInformationSystem/Projects)
