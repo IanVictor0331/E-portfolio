@@ -11,9 +11,9 @@ This repository serves as a central hub for my academic work, including projects
    - 📁 [Notes](./Discrete%20Structure/Notes)
 
 2. **Digital Logic**
-   - 📁 [Projects](./Digital%20Logic/Projects)
-   - 📁 [Assignments](./Digital%20Logic/Assignments)
-   - 📁 [Notes](./Digital%20Logic/Notes)
+   - 📁 [Projects](/Digital%20Logic/Projects)
+   - 📁 [Assignments](/Digital%20Logic/Assigment)
+   - 📁 [Notes](/Digital%20Logic/Notes)
 
 3. **Technology Information System**
    - 📁 [Projects](./TechnologyInformationSystem/Projects)
