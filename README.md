@@ -16,9 +16,9 @@ This repository serves as a central hub for my academic work, including projects
    - 📁 [Notes](/Digital%20Logic/Notes)
 
 3. **Technology Information System**
-   - 📁 [Projects](./TechnologyInformationSystem/Projects)
-   - 📁 [Assignments](./TechnologyInformationSystem/Assignments)
-   - 📁 [Notes](./TechnologyInformationSystem/Notes)
+   - 📁 [Projects](TIS/Projects)
+   - 📁 [Assignments](TIS/Assignments)
+   - 📁 [Notes](TIS/Notes)
 
 ---
 
