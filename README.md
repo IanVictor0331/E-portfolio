@@ -22,6 +22,33 @@ This repository serves as a central hub for my academic work, including projects
 
 ---
 
+# Academic Background
+
+Elementary School : SJK(C) Thorburn
+UPSR : 3(A) 3(B) 1(C) 1(D)
+
+Middle School : SMK Taman Desa Skudai
+
+SPM (Pure Science) :   
+1.Bahasa Malaysia             : B  
+2.Bahasa English              : A+  
+3.History                     : A-    
+4.Mathematics                 : A    
+4.Additional Mathematics      : A  
+5.Physics                     : A+  
+6.Chemistry                   : A-  
+7.Biology                     : A-  
+
+Pre-University : Matriculation Tangkak (Johor)  
+Course : Physical Science  
+PSPM I  : 4.00  
+PSPM II : 4.00  
+CGPA    : 4.00  
+CO-CORRICULUM : 10.00%  
+MUET : BAND 4.5  
+
+
+
 ## How to Navigate the Repository
 
 - Each subject is organized into separate directories with three main subsections:
