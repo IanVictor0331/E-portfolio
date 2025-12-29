@@ -7,7 +7,7 @@ This repository serves as a central hub for my academic work, including projects
 
 1. **Discrete Structure**
    - 📁 [Projects](/Discrete%20Structure/Projects)
-   - 📁 [Assignments](./Discrete%20Structure/Assignments)
+   - 📁 [Assignments](/Discrete%20Structure/Assignment)
    - 📁 [Notes](./Discrete%20Structure/Notes)
 
 2. **Digital Logic**
