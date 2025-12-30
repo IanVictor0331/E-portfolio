@@ -2,6 +2,11 @@
 # Welcome to My Academic Repository 📚
 
 This repository serves as a central hub for my academic work, including projects, assignments, and notes for the following subjects:
+## Website
+📬[Ian's eportfolio](https://xxxccc.my.canva.site/welcome-to-ian-s-portfolio)
+
+## LinkedIN
+📬[Ian's LinkedIN profile](www.linkedin.com/in/ian-victor-anak-nehemiah-belanda-kumbang-7a6b36395)
 
 ## Subjects
 
