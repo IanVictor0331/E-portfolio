@@ -24,6 +24,10 @@ This repository serves as a central hub for my academic work, including projects
    - 📁 [Projects](TIS/Projects)
    - 📁 [Assignments](TIS/Assignments)
    - 📁 [Notes](TIS/Notes)
+     
+4. **Programming Technique**
+   - 📁 [Assignments](/Discrete%20Structure/Assignment)
+   - 📁 [Notes](./Discrete%20Structure/Notes)
 
 ---
 
