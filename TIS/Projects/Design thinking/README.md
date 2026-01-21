@@ -30,7 +30,6 @@
 
   
 
-[Image of the five stages of the Design Thinking process]
 
 
   <h2>Key Features & Solutions</h2>
