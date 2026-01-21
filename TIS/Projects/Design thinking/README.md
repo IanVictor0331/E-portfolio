@@ -4,6 +4,7 @@
 
   <h1>Automatic Air Conditioner Schedule</h1>
   <p>A design thinking project developed by Group <strong>Santai Pro Max</strong> to improve energy efficiency in campus classrooms through smart HVAC management.</p>
+  <p>Youtube Video : https://www.youtube.com/watch?v=3UUuz9on-7A</p>
 
   <hr>
 
