@@ -63,19 +63,14 @@
     </tr>
   </table>
 
-  <h2>Project Context</h2>
-  <ul>
-    <li><strong>Course:</strong> SECP1513-02 Technology and Information System</li>
-    <li><strong>Lecturer:</strong> Dr. Aryati Binti Bakri</li>
-  </ul>
+  
 
-</body>
-</html>
+
 
   <h2>Project Context</h2>
   <ul>
-    [cite_start]<li><strong>Course:</strong> SECP1513-02 Technology and Information System [cite: 171]</li>
-    [cite_start]<li><strong>Lecturer:</strong> Dr. Aryati Binti Bakri [cite: 175]</li>
+    <li><strong>Course:</strong> SECP1513-02 Technology and Information System </li>
+    <li><strong>Lecturer:</strong> Dr. Aryati Binti Bakri </li>
   </ul>
 
 </body>
